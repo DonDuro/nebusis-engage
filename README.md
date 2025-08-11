@@ -131,33 +131,33 @@ APNS_KEY_ID=...
 
 ## 🚀 Implementation Roadmap
 
-### Phase 1: Foundation (Months 1-2)
+### Phase 1: Foundation (Week 1-2)
 - Core Go backend API with MySQL
 - Basic CRM functionality
 - Stripe integration
 - QuickBooks Online integration
 - Essential marketing workflows
 
-### Phase 2: Marketing & Sales (Months 3-4)
+### Phase 2: Marketing & Sales (Week 3-4)
 - Multi-platform advertising integration
 - AI-powered creative generation
 - Social media management
 - Sales pipeline automation
 - Lead-to-sales handoff
 
-### Phase 3: Customer Success (Months 5-6)
+### Phase 3: Customer Success (Week 5-6)
 - Health score implementation
 - Renewal management
 - Mobile app core features
 - Basic offline functionality
 
-### Phase 4: AI Enhancement (Months 7-8)
+### Phase 4: AI Enhancement (Week 7-8)
 - Predictive analytics
 - Advanced AI features
 - Mobile AI capabilities
 - Voice-to-text integration
 
-### Phase 5: Advanced Features (Months 9-12)
+### Phase 5: Advanced Features (Week 9-12)
 - Complete mobile app launch
 - Advanced reporting
 - Public API
@@ -245,3 +245,11 @@ Mid-market businesses seeking modern CRM alternatives with better financial inte
 **Built with ❤️ for modern business automation**
 
 *Nebusis® Engage - Transforming how businesses manage their complete customer lifecycle with AI-powered automation and mobile-first design.*
+## ⚖️ License & Ownership
+
+© 2025 Nebusis Cloud Services, LLC. All rights reserved.  
+This software and all associated materials are the proprietary property of **Nebusis Cloud Services, LLC**.  
+Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written permission from the company.
+
+For licensing inquiries, contact: **info@nebusis.com**  
+Website: [www.nebusis.com](https://www.nebusis.com)
